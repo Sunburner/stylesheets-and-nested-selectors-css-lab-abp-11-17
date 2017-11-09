@@ -16,3 +16,8 @@ header nav {
   float: right;
 
 }
+
+nav ul {
+  padding: none;
+  
+}
