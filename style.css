@@ -20,6 +20,8 @@ header nav {
 header nav ul {
   padding: 0;
   margin-top: 40px;
-  margin: RIGHT BOTTOM LEFT: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
 
 }
