@@ -12,4 +12,7 @@ header {
 
 }
 
-parent_element
+header nav {
+  float: right;
+  
+}
